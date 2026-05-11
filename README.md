@@ -15,7 +15,8 @@ A full-stack analytics dashboard for visualizing product sales, revenue, profit,
 
 ## 📸 Screenshots
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard1.png)
+![Dashboard](screenshots/dashboard2.png)
 ![Products](screenshots/products.png)
 ![Sales](screenshots/sales.png)
 
